@@ -1,0 +1,29 @@
+{
+  "name": "e2ee",
+  "version": "1.0.0",
+  "description": "A simple end-to-end encryption library for the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/porridgewithraisin/e2ee.git"
+  },
+  "keywords": [
+    "e2ee",
+    "end",
+    "to",
+    "encryption",
+    "diffie",
+    "hellman",
+    "aes",
+    "signal"
+  ],
+  "author": "Santhanam <me@santhanam.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/porridgewithraisin/e2ee/issues"
+  },
+  "homepage": "https://github.com/porridgewithraisin/e2ee#readme"
+}
